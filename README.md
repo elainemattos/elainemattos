@@ -1,5 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/elainemattos/elainemattos/master/cat.gif" width="40px">
 
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=elainemattoss&count=3)
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://www.linkedin.com/in/heinz-martin/
