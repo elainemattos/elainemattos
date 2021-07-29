@@ -16,6 +16,3 @@
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=elainemattoss&count=3&width=495)
 ###### tomorrow? who knows... 
 
-----
-
-![elainemattos's GitHub stats](https://github-readme-stats.vercel.app/api?username=elainemattos&count_private=true&show_icons=true&theme=nord)
