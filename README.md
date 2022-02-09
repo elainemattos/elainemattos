@@ -6,8 +6,6 @@
 
 - :computer: I'm currently learning a lot!
 
-- :books: I'm a computer science student!
-
 >:thought_balloon: take it easy :zany_face: :call_me_hand:
 
 ![bob-ross](https://user-images.githubusercontent.com/10763483/133913116-452f560c-a3b1-42fc-8a03-885bef942eee.gif)
