@@ -16,4 +16,4 @@
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=elainemattoss&count=3&width=495)
 ###### tomorrow? who knows... 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elainemattos&bg_color=000000&color=ffffff&line=d8d8d8&point=ffffff&area=true&hide_border=true) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elainemattos&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
