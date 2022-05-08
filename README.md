@@ -1,12 +1,12 @@
-# Hello! <img src="https://raw.githubusercontent.com/elainemattos/elainemattos/master/cat.gif" width="40px">
+<h1> Hello! <img src="https://raw.githubusercontent.com/elainemattos/elainemattos/master/cat.gif" width="60px"></h1>
 
-- :headphones:  I like music a little too much!
+🎧 I like music a little too much!
 
-- :briefcase: Web developer @ levelum
+💻  Software Engineer @ Cora
 
-- :computer: I'm currently learning a lot!
+🐱 Proud cat mom!
 
->:thought_balloon: take it easy :zany_face: :call_me_hand:
+> 💭 take it easy 🤙
 
 ![bob-ross](https://user-images.githubusercontent.com/10763483/133913116-452f560c-a3b1-42fc-8a03-885bef942eee.gif)
 
@@ -15,3 +15,4 @@
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=elainemattoss&count=3&width=495)
 ###### tomorrow? who knows... 
+
