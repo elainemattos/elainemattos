@@ -2,8 +2,6 @@
 
 🎧 I like music a little too much!
 
-💻  Software Engineer @ Cora
-
 🐱 Proud cat mom!
 
 > 💭 take it easy 🤙
